@@ -1,6 +1,6 @@
 # What's in the code?
 
-This is a proof-of-concept code, which was used in an open code challenge by Helen (www.helen.fi, https://www.helen.fi/challenge). As far as I know this code achieved the best monetary result, and found the optimum solution. This code however did not win the competition, because it is coded in Python and not in Matlab/Excel.
+This is a proof-of-concept code, which was used in an open code challenge by Helen (www.helen.fi, https://www.helen.fi/challenge). As far as I know this code achieved the best monetary result, and found the optimal solution. This code however did not win the competition, because it is coded in Python and not in Matlab/Excel.
 
 The aim of the competition was to find optimum charge and discharge times for a big battery energy storage system, which is connected to the grid. The code operates on the presumption, that prices of Nord Pool Spot's ELSPOT (day-ahead-market) is also available in ELBAS for the battery operated system.
 
